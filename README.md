@@ -10,5 +10,9 @@ The selfie2anime dataset is produced by UVCGANv2
 | latest_net_G_A | [Download](https://drive.google.com/file/d/1KptrHelIfh8sIPUgCI9gbSF224OfmD79/view) | [Download (key:cklt)](https://pan.baidu.com/s/1_u6MUEK7olZnpCOnGekD-w) |
 | latest_net_G_B | [Download](https://drive.google.com/file/d/1ucMYUZZ0Aa1IzYVABGjfQXlfQl0XnZwd/view) | [Download (key:cklt)](https://pan.baidu.com/s/1_u6MUEK7olZnpCOnGekD-w) |
 
+#### 👻 Acknowledgement
+Thanks to Mr.Wang for editing the gradio window code!
+https://github.com/wangbaoyuanGUET
+
 #### 📢 News
 Soon I will train a model that works better as a demo for you.
