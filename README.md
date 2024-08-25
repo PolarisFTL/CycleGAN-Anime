@@ -12,7 +12,7 @@ The selfie2anime dataset is produced by UVCGANv2
 
 #### 👻 Acknowledgement
 Thanks to Mr.Wang for editing the gradio window code!
-This is his github:https://github.com/wangbaoyuanGUET
+This is his github: https://github.com/wangbaoyuanGUET
 
 #### 📢 News
 Soon I will train a model that works better as a demo for you.
