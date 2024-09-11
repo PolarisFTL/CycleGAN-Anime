@@ -1,5 +1,5 @@
 ### 😺 CycleGAN-Anime
-<a href="https://huggingface.co/spaces/PolarisFTL/CycleGAN-Anime" target="_blank"><img src="https://camo.githubusercontent.com/bf1cc43ca9bb32b43cdea69dc54ace1adf36eeeff60c6363e47c3e05e9d16269/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d44656d6f732d626c7565"></a>&ensp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=PolarisFTL.CycleGAN-Anime) <br />
+<a href="https://huggingface.co/spaces/PolarisFTL/CycleGAN-Anime" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Demos-blue"></a>&ensp;![visitors](https://visitor-badge.laobi.icu/badge?page_id=PolarisFTL.CycleGAN-Anime) <br />
 #### 🖼️ Dataset & Weights
 The selfie2anime dataset is produced by UVCGANv2 
 |Name | Google | BaiduYun |
