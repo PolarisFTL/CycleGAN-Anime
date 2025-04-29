@@ -16,3 +16,14 @@ This is his github: https://github.com/wangbaoyuanGUET
 
 #### 📢 News
 Soon I will train a model that works better as a demo for you.
+
+```
+# train MASFNet for RTTS dataset
+1️⃣ python tools/voc_annotations.py
+# VOCdevkit_path='the path of RTTS dataset', data_name ='rtts'
+2️⃣ open the config.py and modify the data_name = 'rtts'
+3️⃣ python train.py
+4️⃣
+# train SAFMN for x4 classic SR
+python basicsr/train.py -opt options/train/SAFMN/train_L_DF2K_x4.yml
+```
